@@ -1,6 +1,6 @@
 # Happy NLW #3 Project
 
-[LinkedIn]{https://www.linkedin.com/in/giancarlo-haeffener-4b13a619a/}
+<a> LinkedIn </a>
 
 ### Sobre o projeto
 ###### O projeto Happy consiste em ajudar as crianças orfãs, fazendo que as pessoas possam visitar e fazer o dia delas mais feliz, também ajudando as pessoas a encontrarem orfanatos e adicionar novos, podendo agendar visitas. 
